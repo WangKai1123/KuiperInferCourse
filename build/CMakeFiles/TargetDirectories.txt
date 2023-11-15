@@ -1,0 +1,8 @@
+/code/KuiperCourse/build/CMakeFiles/rebuild_cache.dir
+/code/KuiperCourse/build/CMakeFiles/edit_cache.dir
+/code/KuiperCourse/build/CMakeFiles/test.dir
+/code/KuiperCourse/build/CMakeFiles/kuiper_course.dir
+/code/KuiperCourse/build/test/CMakeFiles/rebuild_cache.dir
+/code/KuiperCourse/build/test/CMakeFiles/edit_cache.dir
+/code/KuiperCourse/build/test/CMakeFiles/test.dir
+/code/KuiperCourse/build/test/CMakeFiles/test_kuiper_course.dir
